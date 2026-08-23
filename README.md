@@ -1,7 +1,5 @@
 # xieqiansong
 
-> 个人主页 / 作品集聚合仓库。这里是起点，也是门面。
-
 你好，我是 xieqiansong，一名 Java 开发工程师。这个仓库是我的 GitHub 个人主页，用于整理和展示我的开发足迹。
 
 ## 关于本仓库
@@ -25,19 +23,6 @@ xieqiansong/
   - **chaos-notes** — 技术笔记集中地，聚焦踩坑记录与技术学习笔记两条主线，内容整理中、低敏起步 → [github.com/xieqiansong/chaos-notes](https://github.com/xieqiansong/chaos-notes)
 - **后端 / 前端 / AI·Python**：代表不同能力维度的精选项目导航
 
-> 具体内容整理中，敬请期待。原则：宁缺毋滥，只展示拿得出手的。
-
-## 快速了解我
-
-- 技术栈：Java 生态（Spring Boot / 中间件 / JVM）、Python、前端（Vue）、少量 Go / C
-- 兴趣：Java 进阶、中间件、AI 应用、效率工具开发
-
-## 联系方式
-
-- GitHub: [github.com/xieqiansong](https://github.com/xieqiansong)
-
 ## License
 
-本项目（个人主页聚合仓库）采用 [MIT License](LICENSE)。
-
-本仓库主要为个人简介与导航内容，且引用/涵盖了若干第三方项目（详见各子项目的授权声明与参考来源，如 `chaos-idea-plugin` 的 [NOTICE](https://github.com/xieqiansong/chaos-idea-plugin)）。各被引用项目保留其原始许可证与版权，适用各自的授权条款。
+[MIT License](LICENSE)（被引用项目保留其原始许可证与版权）。
