@@ -38,4 +38,6 @@ xieqiansong/
 
 ## License
 
-保留所有权利（内容整理完善后再行确定开源协议）。
+本项目（个人主页聚合仓库）采用 [MIT License](LICENSE)。
+
+本仓库主要为个人简介与导航内容，且引用/涵盖了若干第三方项目（详见各子项目的授权声明与参考来源，如 `chaos-idea-plugin` 的 [NOTICE](https://github.com/xieqiansong/chaos-idea-plugin)）。各被引用项目保留其原始许可证与版权，适用各自的授权条款。
