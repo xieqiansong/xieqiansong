@@ -20,7 +20,9 @@ xieqiansong/
 本主页计划承载以下方向（逐步完善中）：
 
 - **效率工具**：小而实用的开发工具类项目沉淀
-- **技术笔记**：踩坑记录、部署笔记、学习心得（规划中，独立仓库承载）
+  - **Chaos IDEA Plugin** — 基于 IntelliJ IDEA 的个人效率插件，为 IdeaVim 补充文本操作与终端工具（自定义文本替换、终端输出导出，以及整合 EasyMotion / Which-Key / QuickScope 等第三方扩展）→ [github.com/xieqiansong/chaos-idea-plugin](https://github.com/xieqiansong/chaos-idea-plugin)
+- **技术笔记**：踩坑记录 + 技术学习笔记（中间件部署、示例代码、框架整合）
+  - **chaos-notes** — 技术笔记集中地，聚焦踩坑记录与技术学习笔记两条主线，内容整理中、低敏起步 → [github.com/xieqiansong/chaos-notes](https://github.com/xieqiansong/chaos-notes)
 - **后端 / 前端 / AI·Python**：代表不同能力维度的精选项目导航
 
 > 具体内容整理中，敬请期待。原则：宁缺毋滥，只展示拿得出手的。
