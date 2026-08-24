@@ -6,6 +6,7 @@ Java 开发工程师。个人主页，导航精选项目与笔记。
 
 - **效率工具**
   - [Chaos IDEA Plugin](https://github.com/xieqiansong/chaos-idea-plugin) — IntelliJ IDEA 效率插件（IdeaVim 增强、文本替换、终端工具）
+  - [chaos-tcp-over-websockets](https://github.com/xieqiansong/chaos-tcp-over-websockets) — Netty 实现的 TCP over WebSocket 隧道工具（受限网络下端口穿透）
 - **技术笔记**
   - [chaos-notes](https://github.com/xieqiansong/chaos-notes) — 踩坑记录与技术学习笔记
 
