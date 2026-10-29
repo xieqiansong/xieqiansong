@@ -12,9 +12,9 @@ Java 开发工程师。个人主页，导航精选项目与笔记。
   - [Linux 高负载：nf_conntrack 连接跟踪表溢出](https://github.com/xieqiansong/chaos-notes/blob/main/pitfalls/Linux高负载nf_conntrack连接跟踪表溢出.md) — 高并发长连接、连接跟踪表溢出、高负载调优
   - [ES 集群节点版本不一致导致数据不同步](https://github.com/xieqiansong/chaos-notes/blob/main/pitfalls/ES集群节点版本不一致导致数据不同步.md) — 节点小版本不一致、分片/数据不同步、排查与处理
 - **技术学习**
-  - [Seata 学习记录](https://github.com/xieqiansong/chaos-notes/blob/main/notes/Seata学习记录.md) — 分布式事务 AT 与 TCC 模式、undo_log、补偿
-  - [Nacos 学习记录](https://github.com/xieqiansong/chaos-notes/blob/main/notes/Nacos学习记录.md) — 注册中心、配置中心、动态刷新、编程式监听
-  - [Redis 学习记录](https://github.com/xieqiansong/chaos-notes/blob/main/notes/Redis学习记录.md) — 分布式锁、限流、排行榜、管道、发布订阅
+  - [OAuth2 授权服务器与 Token 生命周期](https://github.com/xieqiansong/chaos-notes/blob/main/notes/OAuth2授权服务器与Token生命周期.md) — 手写 IdP、授权码+PKCE、JWT access+不透明 refresh、滚动刷新、撤销黑名单、JWKS
+  - [RabbitMQ 学习记录](https://github.com/xieqiansong/chaos-notes/blob/main/notes/RabbitMQ学习记录.md) — Exchange 路由、Publisher Confirm、手动 Ack、TTL+DLX、消息可靠性
+  - [WebFlux 响应式编程学习记录](https://github.com/xieqiansong/chaos-notes/blob/main/notes/WebFlux响应式编程学习记录.md) — Reactor、背压、RouterFunction、WebClient
 
 > 更多笔记见 [Chaos Notes](https://github.com/xieqiansong/chaos-notes)。
 
